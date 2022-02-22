@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable words for English Protestants a sermon from Jer. 51, 5, setting forth, 1. When a land is filled with sin? 2. What evidences we have that England is not forsaken yet by God? and, 3. What is required of us, that we may not be given up to destruction.</title>
+            <author>Burgess, Daniel, 1645-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30287</idno>
+            <idno type="STC">Wing B5717</idno>
+            <idno type="STC">ESTC R3911</idno>
+            <idno type="EEBO-CITATION">13677226</idno>
+            <idno type="OCLC">ocm 13677226</idno>
+            <idno type="VID">101248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 839:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable words for English Protestants a sermon from Jer. 51, 5, setting forth, 1. When a land is filled with sin? 2. What evidences we have that England is not forsaken yet by God? and, 3. What is required of us, that we may not be given up to destruction.</title>
+                  <author>Burgess, Daniel, 1645-1713.</author>
+               </titleStmt>
+               <extent>[7], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Daniel Burgess.  Cf. DNB.</note>
+                  <note>Advertisements on p. 29 and [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Jeremiah LI, 5 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101248:1"/>
+            <p>Seaſonable Words FOR <hi>Engliſh Proteſtants.</hi>
+            </p>
+            <p>A SERMON, From <hi>Jer.</hi> 51.5. Setting forth,
+<list>
+                  <item>1. When a Land is filled with Sin?</item>
+                  <item>2. What Evidences we have that <hi>England</hi> is not forſaken yet by God? And</item>
+                  <item>3. What is required of us, that we may not be given up to Deſtruction.</item>
+               </list>
+            </p>
+            <q>The Watchman ſaid, The Morning cometh, and alſo the Night. If ye will Enquire, Enquire ye; Return, Come,
+<bibl>Iſa. 21.12.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns,</hi> at the lower end of <hi>Cheapſide,</hi> near <hi>Mercers Chapel.</hi> 1690.</p>
+            <pb facs="tcp:101248:2"/>
+            <p>Seaſonable Words FOR <hi>Engliſh Proteſtants.</hi>
+            </p>
+            <pb facs="tcp:101248:3"/>
+            <pb facs="tcp:101248:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101248:4"/>
+            <pb facs="tcp:101248:4"/>
+            <head>TO THE READER.</head>
+            <p>UPon the deſire of ſome intereſted in the pub<g ref="char:EOLhyphen"/>lication of this <hi>Sermon,</hi> I have peruſed it, and do communicate theſe my <hi>Thoughts</hi> con<g ref="char:EOLhyphen"/>cerning it.</p>
+            <p>There appears unto me in it, thoſe two things, which do, above all others, commend any <hi>Sermon,</hi> or any other <hi>Book;</hi> namely, moſt <hi>weighty and ſeaſonable Argument,</hi> with very <hi>judicious and methodical Management.</hi>
+            </p>
+            <p>If I am able to judge; the <hi>Management</hi> ſpeaks <hi>Arma Virúmque,</hi> the Man and his Furniture: And it is like its great <hi>Author,</hi> (well known to <hi>this Age,</hi> and like to be ſo unto <hi>future</hi> ones, by his Writings in more than one Language.) There is a favour due unto all <hi>Poſthumous</hi> Pieces, of which ſort this is; but there is little need that this Piece ſeems to have of it.</p>
+            <p>As for its <hi>Argument,</hi> it is very <hi>Salvation;</hi> and that not meerly <hi>Perſonal,</hi> or <hi>Domeſtical,</hi> but <hi>Na<g ref="char:EOLhyphen"/>tional.</hi> This, if any thing, will be acknowledged <hi>Momentous;</hi> and now, if ever, it muſt be ac<g ref="char:EOLhyphen"/>knowledged
+<pb facs="tcp:101248:5"/>
+               <hi>ſeaſonable.</hi> Now in this our Day, <hi>known only to the Lord.</hi> Nay now, that it is <hi>neither Day nor Night,</hi> as the Prophet ſpeaks. Now that City and Countrey are crying, <hi>Watchman, what of the night? Watchman, what of the night?</hi> Now that the three frightful ſigns of ap<g ref="char:EOLhyphen"/>proaching Night are ſo upon us: I mean <hi>Shadows growing long, Labourers going apace home,</hi> and <hi>Wild Beaſts going boldly abroad.</hi> Quis ta<g ref="char:EOLhyphen"/>lia fando Temperet a Lachrymis?</p>
+            <p>In a word, here is that which will ſufficiently re<g ref="char:EOLhyphen"/>commend it ſelf to all ſerious Readers. It is the complaint of many, that our Bookſellers Shops are become heaps of <hi>dry Sand,</hi> in which many a <hi>rich Stone</hi> is loſt. But it is known to all, that <hi>Dia<g ref="char:EOLhyphen"/>monds</hi> will be found out by their own <hi>Luſtre.</hi> And I make no great queſtion but ſo this Sermon will be. That it may be ſo, and may <hi>go much abroad,</hi> and <hi>do good where-ever it comes,</hi> is the prayer of</p>
+            <closer>
+               <dateline>From my houſe in <hi>Bridges-ſtreet</hi> in <hi>Covent-Garden,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> 7. 1690.</date>
+               </dateline>
+               <signed>Thy Servant in Chriſt Jeſus, Daniel Burgeſs.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:101248:5"/>
+            <epigraph>
+               <q>
+                  <bibl>Jeremiah 51.5.</bibl>
+                  <p>For <hi>Iſrael</hi> hath not been forſaken, nor <hi>Judah</hi> of his God, of the Lord of Hoſts, though their Land was filled with ſin againſt the Holy one of <hi>Iſrael.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Chapter, and the forego<g ref="char:EOLhyphen"/>going, are an eminent Pro<g ref="char:EOLhyphen"/>phecy and Prediction of the Deſtruction of <hi>Babylon,</hi> and of the Land of the <hi>Chalde<g ref="char:EOLhyphen"/>ans,</hi> of the Metropolitical City of the Empire and of the Nation it ſelf. There is a double occaſion for the inſerting of theſe Words. The firſt is to declare the Grounds and Reaſons why God would bring that Deſtruction upon <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> and upon the Land of the <hi>Chaldeans.</hi> The words of the 4th verſe are, <hi>The ſlain ſhall fall in the Land of the Chaldeans, and they that are thruſt through in her ſtreets.</hi> Why ſo? For, ſaith he, <hi>Iſrael
+<pb n="2" facs="tcp:101248:6"/>hath not been forſaken.</hi> The reaſon why God will deſtroy the Empire of <hi>Babylon,</hi> is, becauſe he will remember <hi>Iſrael,</hi> and what they have done againſt him. This lies in ſtore for another <hi>Babylon</hi> in God's appointed time. The ſecond Reaſon is that it may be for the comfort, for the ſupport<g ref="char:EOLhyphen"/>ment of <hi>Iſrael</hi> and <hi>Judah</hi> under that diſtreſs which was then befalling them upon the entrance of this <hi>Babylon</hi> in the Land of the <hi>Chaldeans.</hi> Notwith<g ref="char:EOLhyphen"/>ſtanding all, ſaith he, <hi>yet</hi> Iſrael <hi>is not forſaken, nor</hi> Judah <hi>of his God.</hi>
+            </p>
+            <p>We are called this day to joyn our Cryes with the Nation in the behalf of the Land of our Na<g ref="char:EOLhyphen"/>tivity. And though it hath been, as moſt of you know, my conſtant courſe on ſuch ſolemn Days as theſe are, to treat in particular about our own <hi>ſins,</hi> our own <hi>decays,</hi> our own means of Reco<g ref="char:EOLhyphen"/>very; yet upon this occaſion I ſhall, as God ſhall help me, from theſe words, repreſent unto you the State of the Nation wherein we live, and the only way and means of our Deliverance from Univerſal Deſtruction. To declare our Intereſt herein, ſome things muſt be obſerved concerning this <hi>Babylon,</hi> whoſe Deſtruction is ſo ſolemnly propheſied of in this and the foregoing Chapter, And I muſt obſerve three things concerning it.</p>
+            <p>Firſt; <hi>That</hi> Babylon <hi>was the Original of Apo<g ref="char:EOLhyphen"/>ſtacy from the Natural Worſhip of God unto Idolatry in the whole World.</hi> There was great Iniquity before the Floud, but no mention of
+<pb n="3" facs="tcp:101248:6"/>any Idolatry. There was a Natural Worſhip of God throughout the World, that was not cor<g ref="char:EOLhyphen"/>rupted with Idolatry: There is no mention of it until the building of <hi>Babel.</hi> There it began. The Tower which they built, they turned into a Temple of <hi>Belus,</hi> whom they had made a God, and laid his Image in the top of it. There was the Original. You ſhall ſee immediately how we are concerned. There was the Original of Apo<g ref="char:EOLhyphen"/>ſtacy from Natural Worſhip unto Idolatry.</p>
+            <p>
+               <hi>Secondly; Their Idolatry;</hi> the Idolatry that there began conſiſted in Image-worſhip, in the worſhiping of Graven Images, which was their Idolatry, that they ſet up with reſpect unto men departed, whom they worſhiped by them. Four times in this Prophecy doth God ſay, he will take vengeance on their Graven Images. And from the 40th of <hi>Iſaiah,</hi> to the end of the 46th, you have a deſcription of the Idolatry of <hi>Babylon,</hi> that it all conſiſted in making Carved Idols, and Graven Images. The reſt of the World, eſpecially of the Eaſtern Nations, fell into the worſhiping of the Sun, which they called <hi>Baal,</hi> and <hi>Moloch,</hi> and <hi>Kemoſh,</hi> all names of the Sun; and the Worſhip of the Moon, which they called <hi>Aſhtaroth,</hi> and the Queen of Heaven; but the Idolatry of <hi>Babylon</hi> was by Graven Images and Idols.</p>
+            <p>
+               <hi>Thirdly;</hi> Obſerve, <hi>They were</hi> ſo far, as appears upon Record, <hi>the firſt State in the World that
+<pb n="4" facs="tcp:101248:7"/>ever perſecuted for Religion;</hi> that oppreſſed the true Worſhippers of God as ſuch, as being mad upon their Idols, as the Prophet ſaith they were; they were enflamed upon them. They were the firſt that oppreſſed the Church, becauſe of its wor<g ref="char:EOLhyphen"/>ſhiping of God, and deſtroyed that Worſhip among them. Hence the Church prays in this Chapter, <hi>The vengeance of the Lord, and of his Temple be upon</hi> Babylon: Not only the vengeance of the Lord for deſtroying of his People; but the vengeance of his Temple, for deſtroying of his Worſhip, be upon <hi>Babylon,</hi> ſhall <hi>Zion</hi> ſay. <hi>Others have afflicted me,</hi> ſaith he in the ſame Chapter, <hi>but this</hi> Nebuchadnezzar <hi>King of</hi> Babylon <hi>hath broken my bones.</hi> They were the great Oppreſſors of the Church.</p>
+            <p>Upon theſe three accounts which is that I would obſerve, the name of <hi>Babylon,</hi> and all that is ſpoken of it in the Old Teſtament, is tranſ<g ref="char:EOLhyphen"/>ferred to the Apoſtate Church of <hi>Rome</hi> in the New, and all applied unto it in the Book of the <hi>Revelation,</hi> and that upon this great Analogy, which I ſhall now briefly ſhew.</p>
+            <p>Why doth God call the Apoſtate State of the Church under the New Teſtament <hi>Baby<g ref="char:EOLhyphen"/>lon, Babylon the Myſtery?</hi> For theſe three Rea<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>
+               <hi>Firſt;</hi> As Old <hi>Babylon</hi> was the Riſe and Spring of Apoſtacy from Natural Worſhip in the World
+<pb n="5" facs="tcp:101248:7"/>unto Idolatry; ſo this New <hi>Babylon</hi> was the Riſe and Spring of Apoſtacy from Evangelical Wor<g ref="char:EOLhyphen"/>ſhip in the World unto Idolatry. Mark the Ana<g ref="char:EOLhyphen"/>logy. Hence ſhe is called the <hi>Mother of Harlots,</hi> that is, ſhe that had brought forth all the Idola<g ref="char:EOLhyphen"/>trous Churches and Worſhip that were in the World. Did <hi>Babylon</hi> begin to Apoſtatize into Ido<g ref="char:EOLhyphen"/>latry from Natural Worſhip? ſo <hi>Rome</hi> began to Apoſtatize into Idolatry from Spiritual Evangeli<g ref="char:EOLhyphen"/>cal Worſhip. Therefore the Holy Ghoſt calls her <hi>Babylon.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The peculiar Idolatry of <hi>Babylon</hi> con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ed in Image-worſhip, the worſhiping of men departed under Images made to their likeneſs. And the peculiar Idolatry of <hi>Rome</hi> conſiſts in Image-worſhip, their worſhiping Saints departed, which is a great part of their Idolatry. And therein they are <hi>Babylon</hi> alſo.</p>
+            <p>
+               <hi>Thirdly</hi> and laſtly; As <hi>Babylon</hi> was the Spring of all Perſecution againſt, and Oppreſſion of the Church of God under the Old Teſtament; ſo <hi>Rome</hi> hath been the Spring of all Perſecution and Oppreſſion of the Church of God ſince the Apo<g ref="char:EOLhyphen"/>ſtacy under the New Teſtament.</p>
+            <p>On theſe accounts hath the Holy Ghoſt in in<g ref="char:EOLhyphen"/>finite Wiſdom transferred over the name, and ſtate, and other things ſpoken of <hi>Babylon</hi> from the Old unto the New.</p>
+            <pb n="6" facs="tcp:101248:8"/>
+            <p>I have mentioned this, that you may ſee the Intereſt of <hi>England</hi> in this Text of Scripture. So far as the Truth of Religion is owned in this Nation; ſo far as there is a Teſtimony given againſt Idolatry, we are to God as <hi>Iſrael</hi> and <hi>Judah,</hi> though the Land be filled with ſin. At the time of this Prophecy <hi>Iſrael</hi> and <hi>Judah</hi> were in danger of preſent Deſtruction and Deſolation from the Old <hi>Babylon;</hi> and if we do not mock God in all we do, we are under Apprehenſions that <hi>England,</hi> and the Church of God in <hi>England</hi> is under danger of the ſame Deſolation and <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtruction from New <hi>Babylon</hi> upon the ſame ac<g ref="char:EOLhyphen"/>count and principle. If we do not mock God, this is that we profeſs at this day. Wherefore the parallel runs thus far equal. Such as was <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> of Old, ſuch is that at preſent: Such as was the danger of <hi>Iſrael</hi> and <hi>Judah</hi> from them at that day, ſuch is the danger of <hi>England</hi> from the New at this preſent. This is ſpoken in general.</p>
+            <p>For the opening of the words obſerve theſe three things.</p>
+            <p n="1">1. <hi>That there is in them a Reduplication of the Names or Titles of God.</hi> He is in this verſe cal<g ref="char:EOLhyphen"/>led by the name of the <hi>Lord of Hoſts;</hi> and by, the name of the Holy One of <hi>Iſrael;</hi> where there are ſuch Reduplications of the Name of God, or any of his Titles, the Holy Ghoſt would have us take notice that it is a matter of great importance where<g ref="char:EOLhyphen"/>of he ſpeaks.</p>
+            <pb n="7" facs="tcp:101248:8"/>
+            <p n="2">2. <hi>There is a Diſtribution and Application of theſe Names of God unto diſtinct occaſions ſuitable unto them.</hi>
+            </p>
+            <p n="1">(1.) There is in it mentioned an intimation of a Surprizal with ſome Protection or Delive<g ref="char:EOLhyphen"/>rance. Who ſhall it be done by? <hi>The Lord of Hoſts,</hi> ſaith he; <hi>The Lord his God.</hi> And he doth not in vain add immediately, <hi>The Lord of Hoſts,</hi> that Title of God. He who hath the Hoſt above, and the Hoſt below in his Soveraign diſpoſal. God's Hoſt above, are all the holy Angels, and all the Heavenly Bodies in their influences. The Stars in their courſes fought againſt <hi>Siſera.</hi> And he hath lately hung forth among us a Flag or Enſign of his Hoſt above, intimating that he is ariſing in his Indignation, as the Lord of Hoſts, and hath hung forth an Enſign before his com<g ref="char:EOLhyphen"/>ing, full of dread and terrour. And he is the Lord of Hoſts here below, of all men, and of all creatures, diſpoſing of them as ſeems good unto him. The Prophet adds this name of God, be<g ref="char:EOLhyphen"/>cauſe of the unſpeakable greatneſs of the thing he mentions, namely, that <hi>Iſrael</hi> ſhould not be forſaken, nor <hi>Judah,</hi> while the Land was ſo fil<g ref="char:EOLhyphen"/>led with ſin, and the whole Intereſt of <hi>Babylon</hi> ſo coming upon them.</p>
+            <p n="2">(2.) The other Title of God is, <hi>The Holy One of Iſrael.</hi> This is applied peculiarly unto their ſin. The Land is filled with ſin againſt the Holy One of <hi>Iſrael.</hi> It is the greateſt, it is the higheſt ag<g ref="char:EOLhyphen"/>gravation of ſin, that it is againſt the Holineſs of
+<pb n="8" facs="tcp:101248:9"/>God, <hi>who is a God of purer eyes than to behold iniquity.</hi> So hath the Wiſdom of the Holy Ghoſt applied theſe two diſtinct Titles of God unto the two diſtinct conſiderations of the People; firſt, of their Protection, that he is the Lord of Hoſts; ſecondly, as of their ſin, that he is the Holy One of <hi>Iſrael.</hi>
+            </p>
+            <p n="3">3. The third thing is this, <hi>That in this woful State there is yet an intimation made of a Covenant Intereſt of</hi> Judah <hi>in God, and that God did yet own them as his in Covenant.</hi> Iſrael <hi>hath not been forſaken, nor</hi> Judah <hi>of his God.</hi> Brethren, no man, I think, hath leſs of Faith than I; no man doth more deſpond: But if I could ſee theſe two things in concurrence, <hi>His God,</hi> and <hi>The Lord of Hoſts,</hi> that is, Soveraign Grace, according to his Cove<g ref="char:EOLhyphen"/>nant, and Soveraign Power, according to his Pro<g ref="char:EOLhyphen"/>vidence, there is ground for any man's Faith to build upon. <hi>His God, The Lord of Hoſts.</hi> No<g ref="char:EOLhyphen"/>thing but Soveraign Grace and Soveraign Power can preſerve a People when their Land is full of ſin againſt the Holy One of <hi>Iſrael;</hi> and Deſtru<g ref="char:EOLhyphen"/>ction ſeems to encompaſs them from the Intereſt of <hi>Babylon.</hi>
+            </p>
+            <p>I ſhall ſpeak yet a little more particularly: You may conſider in the words,</p>
+            <p n="1">1. That which is mentioned in the laſt place, <hi>The State of the People at this time; Their Land was fill<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with ſin againſt the Holy One of</hi> Iſrael.</p>
+            <pb n="9" facs="tcp:101248:9"/>
+            <p n="2">2. An intimation of approaching deſerved De<g ref="char:EOLhyphen"/>ſtruction on that account: <hi>Though the Land.</hi> It is in that condition that it ought to look for nothing but Deſtruction.</p>
+            <p n="3">3. A ſtrange and wonderful Surpriſal, notwith<g ref="char:EOLhyphen"/>ſtanding this, in Soveraign Grace and Power; Iſrael <hi>hath not been forſaken, nor</hi> Judah <hi>of his God, the Lord of Hoſts.</hi>
+            </p>
+            <p>What I ſhall ſpeak to is this;</p>
+            <p>That <hi>when a Land is filled with ſin againſt the Lord, let mens Hopes and Expectations be what they will, they are in danger of utter Deſtruction, and cannot be ſaved, but by the actings of Soveraign Grace and Power.</hi>
+            </p>
+            <p>I ſhall, for the handling hereof, at leaſt I deſign to do theſe three things.</p>
+            <p n="1">1. Shew when a Land is filled with ſin againſt the Holy One of <hi>Iſrael.</hi>
+            </p>
+            <p n="2">2. Gather up what Evidences we have that <hi>England</hi> is not yet utterly forſaken of God.</p>
+            <p n="3">3. Manifeſt what is indiſpenſably required of us, that we may not be given up unto that ut<g ref="char:EOLhyphen"/>ter Deſolation and Deſtruction that lieth at the door.</p>
+            <pb n="10" facs="tcp:101248:10"/>
+            <p>I do believe that I am not in my thoughts far from your caſe; far from the caſe of the Nation. I do not ſearch for things to ſpeak to; I ſhall ſpeak only thoſe that are compliant with the com<g ref="char:EOLhyphen"/>mon Reaſon and Underſtanding of all ſober Perſons.</p>
+            <div type="part">
+               <p>There are three ways whereby a Land may be ſaid to be filled with ſin.</p>
+               <p n="1">1. When the ſins of a Land or Nation are come to the full, to the utmoſt meaſure that God hath allotted to them in his Patience. There is ſuch an allotment of Patience to every Nation un<g ref="char:EOLhyphen"/>der Heaven, and when it comes to its appointed Iſſue, no means under Heaven can defer or delay their Deſtruction one day. Thus ſaith God be<g ref="char:EOLhyphen"/>fore the Floud, <hi>The Land is filled with ſin, the whole Earth with violence; a Floud ſhall take them away.</hi> The Cry of <hi>Sodom</hi> and <hi>Gomorrah</hi> came up to God; they had filled up their meaſure; God ſent Fire and Brimſtone to deſtroy them. <hi>You ſhall not yet go into</hi> Canaan: Why? <hi>The Iniquity of the Amorites is not yet full.</hi> There is a time appoint<g ref="char:EOLhyphen"/>ed wherein the Iniquity of the <hi>Amorites</hi> ſhall come up to its full meaſure, beyond which their De<g ref="char:EOLhyphen"/>ſtruction ſhall not be delayed. This was not now the caſe of <hi>Iſrael</hi> and <hi>Judah.</hi> It proved afterward to be their caſe, as the Apoſtle deſcribes it, 1 <hi>Theſ.</hi> 2.15, 16. <hi>Who both killed the Lord Jeſus and their own Prophets, and have perſecuted us, and they pleaſe
+<pb n="11" facs="tcp:101248:10"/>not God, and are contrary unto all men: Forbidding us to preach to the Gentiles that they might be ſa<g ref="char:EOLhyphen"/>ved, to fill up their ſins alway. For the wrath is come upon them to the uttermoſt.</hi> How come? They have filled their meaſure, reacht to their bounds; <hi>Wrath is come upon them to the uttermoſt.</hi> I hope, I pray that this is not, that this may not be the State of <hi>England;</hi> that our Land is not ſo filled with ſin, as that God's Decree of Abſolute and Univerſal Deſolation ſhould be gone forth againſt us.</p>
+               <p n="2">2. A Land may be ſaid to be filled with ſin, when it is come to that degree and meaſure, as that God will not paſs it by without ſome ſe<g ref="char:EOLhyphen"/>vere deſolating Judgment. He will not utterly forſake it, he will not utterly deſtroy it; but let all mankind do what they will, he will not paſs it by without ſome ſevere deſolating Judgment. Such was their caſe even at this time. You may ſee in 2 <hi>Chron.</hi> 36.16. <hi>But they mocked the Meſ<g ref="char:EOLhyphen"/>ſengers of God, and deſpiſed his words, and miſuſed his Prophets, until the wrath of the Lord aroſe againſt his People, till there was no Remedy.</hi> It was impoſſible that the Judgment of God ſhould be turned away from them. In this State God ſaith, <hi>Pray not for this people; my heart ſhall not be towards them,</hi> until he had brought his Judgment upon them. <hi>Though</hi> Moſes <hi>and</hi> Samuel <hi>ſtood before me, I will not hear them.</hi> Ay, but what if <hi>Reformation come in? Nay, nay,</hi> ſaith he, <hi>It is determined againſt them. Reformation</hi> ſhall not ſave them. See 2 <hi>Kings
+<pb n="12" facs="tcp:101248:11"/>c.</hi> 23: <hi>v.</hi> 25, 26. where there is an account given of the greateſt <hi>Reformation</hi> that ever was wrought, in <hi>Judah,</hi> by <hi>Joſiah.</hi> So it is ſaid, <hi>Like unto him there was no King before him, that turned to the Lord with all his heart, and with all his ſoul, and with all his might, according to all the Law of</hi> Mo<g ref="char:EOLhyphen"/>ſes; <hi>neither after him aroſe there any like him;</hi> ha<g ref="char:EOLhyphen"/>ving Reformed the whole Nation. Then ſure all will be well. See the next words; <hi>Notwithſtand<g ref="char:EOLhyphen"/>ing the Lord turned not from the fierceneſs of his great wrath wherewith his anger was kindled againſt</hi> Ju<g ref="char:EOLhyphen"/>dah; <hi>and the Lord ſaid, I will remove</hi> Judah <hi>al<g ref="char:EOLhyphen"/>ſo out of my ſight.</hi> There is a time and ſeaſon when God, although he will not utterly deſtroy and forſake a Nation for ever, yet he will not paſs them by; let who will intercede, he will not paſs them by, until he hath brought a ſevere deſtructive ſcourge upon them. Whether this be the State of <hi>England</hi> at this day, or no, God on<g ref="char:EOLhyphen"/>ly knows, and of Mankind not one. Whether we are come to that State wherein there is no Remedy, wherein nothing we do ſhall prevent deſolating Judgments, I ſay, God only knows, and of men not one.</p>
+               <p n="3">3. A Land is filled with ſin, when it is come to ſuch a degree and meaſure, as that there is no Rule of the Word, nor any Prognoſtick from Providence, nor any Conjecture from the ſtate of things that can give any determination what will be the Iſſue. Judgment is deſerved, and there is nothing remains but to look upon
+<pb n="13" facs="tcp:101248:11"/>the Ballance as it is held in the hand of Soveraign<g ref="char:EOLhyphen"/>ty; which way it will turn, God only knows. The Decree is not yet gone forth. In this your State God doth not ſay, <hi>Pray not for this People:</hi> God doth not ſay, <hi>Though you reform, I will not turn from the fierceneſs of my wrath.</hi> But God ſaith, <hi>Who knows if God will return and leave a Bleſſing? Who knows if God will be entreated and have mercy?</hi> He leaves it upon the abſolute plea<g ref="char:EOLhyphen"/>ſure of Soveraignty to give us encouragement to wait upon him. Becauſe I take this, yea and I take it in the beſt of my hopes to be that where<g ref="char:EOLhyphen"/>in we are concerned; pray, take theſe two things along with you, before I go to ſhew it in parti<g ref="char:EOLhyphen"/>cular. The firſt is, That in this State, if God gives time and ſpace, there is encouragement enough left to make our Applications to him for the Removal of Impending Judgments. Methinks ſometimes I ſee by Faith the Lord high lift up up<g ref="char:EOLhyphen"/>on his Throne, and his Train filling the Temple with his Glory, and holding the Ballance of this Nation in his hand, and can turn it to Mercy or Judgment as ſeems good unto him. While it is ſo; while though the Woman be put into the Epha, yet the Talent of Lead is not laid upon her, there is time for Interceſſion, yet time for the interpoſition of God. And ſecondly, I ſay, and do you take it as you ſee good; but I will tell you my perſwaſion, that if there be not a com<g ref="char:EOLhyphen"/>pliance with the Calls of God unto this Nation, upon this Suſpenſion and Arreſt of Judgment that we are under, we ſhall as certainly periſh
+<pb n="14" facs="tcp:101248:12"/>as if we were in either of the two former conditions. If the <hi>Chaldeans</hi> were all wounded men, if there was no Hope, no Strength, no Relief in the Papal Cauſe, they ſhall riſe up and ſmite as in the day wherein <hi>Shalman</hi> ſpoiled <hi>Beth-arbel,</hi> and the Mother was daſh<g ref="char:EOLhyphen"/>ed in pieces upon her Children,
+<note place="margin">Hoſ. 10.14.</note> un<g ref="char:EOLhyphen"/>leſs there be a compliance with the Calls of God in the days wherein we live.</p>
+               <p>Let us then a little, as God will give ſtrength, enquire when a Nation is ſo filled with ſin againſt the Holy One of <hi>Iſrael,</hi> as certainly to put the Ballance into the hands of Soveraignty, and to take off all Rules and Prognoſticks (which with great grief I have heard ſometimes inſiſted upon) and reduce us meerly to the hand of Soveraignty. When is it that a Land is ſo filled with ſin?</p>
+               <p n="1">1. A Land is ſo filled with ſin, when all ſorts of provoking ſins do abound in it; when there is no Exception to be put in into the Indictment; when there is no provoking ſin that can be thought on that is not in the Nation. For if there be but one provoking ſin abſolutely ex<g ref="char:EOLhyphen"/>cluded, there is room for mercy to dwell. Who now ſhall plead for <hi>England?</hi> Who ſhall put in an Exception for <hi>England</hi> into this Indictment? Oh poor <hi>England!</hi> among all thy Lovers, thou haſt not one to plead for thee this day. From the Height of Profaneneſs and Atheiſm through the
+<pb n="15" facs="tcp:101248:12"/>filthineſs of Senſuality and Uncleanneſs, down to the loweſt Oppreſſion and Cheating, the Land is filled with all ſorts of ſin. If there be any that can put in an Exception as to any provoking ſin that is not among us, let them ſtand forth and plead the Cauſe of this Nation. I profeſs my mouth is ſtopped. The Land is filled with ſin againſt the Holy One of <hi>Iſrael.</hi> It is to no pur<g ref="char:EOLhyphen"/>poſe to enumerate our ſins; the Roll is too long to be read at this time; and I am ſorry it hath been cut and thrown into the fire; when it hath been ſpoken of, contemned and deſpiſed, as <hi>Jere<g ref="char:EOLhyphen"/>miahs</hi> was by <hi>Jehojakim.</hi> But ſo it is.</p>
+               <p n="2">2. A Land is ſo filled with ſin againſt the Ho<g ref="char:EOLhyphen"/>ly One of <hi>Iſrael,</hi> when all ſorts of perſons in a Land are guilty of provoking ſins. Pray mi<g ref="char:EOLhyphen"/>ſtake me not; I do not ſay all perſons of all ſorts; God forbid; If it had been ſo, we had long ſince been like unto <hi>Sodom</hi> and <hi>Gomorrah.</hi>
+                  <note place="margin">Iſa. 1.9.</note> 
+                  <hi>If the Lord of Hoſts had not left us a ſmall Remnant, we ſhould have been as</hi> Sodom, <hi>and we ſhould have been like unto</hi> Gomorrah. But whereas there are many ſorts of Perſons, Rulers, and them that are ruled; high and low, rich and poor; in Court, in City, in Country; I ſay, all ſorts of perſons have been guilty of theſe provoking ſins: We and our Prin<g ref="char:EOLhyphen"/>ces, as <hi>Daniel</hi> ſpeaks, and our Rulers, and the People, the Inhabitants of the Land of all ſorts. Who ſhall plead here for <hi>England?</hi> Who ſhall bring forth a ſort of perſons? Nay, it is not ſo
+<pb n="16" facs="tcp:101248:13"/>in the Throne; nay, it is not ſo at Court; nay, it is not ſo among the Clergy; nay, it is not ſo in the City; nay, it is not ſo in the Country; it is not ſo with the Rich, it is not ſo with the Poor. Let any one that can bring in a Plea for this poor Nation, that we may not conclude the Land is filled with ſin againſt the Holy One of <hi>Iſrael.</hi>
+               </p>
+               <p>But you will ſay; Here lies an Exception: There are many Perſons, many Churches free from theſe flagitious and provoking ſins. There is a ſort of Perſons, Churches and Profeſſors, who walk in the fear of God, and are free from all theſe ſins; and therefore it doth not extend to all ſorts.</p>
+               <p>Brethren! you know my mind full well in this matter. I have been for theſe three laſt years upon all occaſions inculcating it upon you. I acknowledge the Churches in this Nation are not Guilty of thoſe ſins whereby God is pro<g ref="char:EOLhyphen"/>voked againſt the Nation to bring on National Judgments: But I do ſay, that Churches and Pro<g ref="char:EOLhyphen"/>feſſors in this Nation are Guilty of thoſe ſins for which Chriſt will bring correcting Judgments upon Churches and Profeſſors; ſo that we are all in the ſame way and bottom, though not all upon the ſame account. <hi>The Land is filled with ſin.</hi> How are your Thoughts concerned in theſe things, Brethren? I confeſs to you, I ſpeak my Heart, my Conſcience, as in the preſence
+<pb n="17" facs="tcp:101248:13"/>of God, and as that which you are concerned to conſider.</p>
+               <p>I have given you two Evidences that this Land is ſo filled with ſin againſt the Holy One of <hi>Iſrael.</hi> I will give you two more.</p>
+               <p n="3">3. When the ſins of a Land have upon them the greateſt Aggravations that National ſins are capable of. What are they? They are plain. They are againſt Warnings, and againſt Mercies. All ſorts of ſins in all ſorts of perſons, againſt all ſorts of Warnings, and againſt all ſorts of Mer<g ref="char:EOLhyphen"/>cies. God hath not left this Land without War<g ref="char:EOLhyphen"/>nings in Heaven above, and in Earth beneath. Was there no Warning given us in the <hi>waſting, deſolating Plague?</hi> No Warning in the <hi>conſuming, raging Fire?</hi> No Warning in the <hi>bloody War</hi> that enſued thereon? No Warning in all the <hi>prodi<g ref="char:EOLhyphen"/>gious Appearances</hi> in Heaven above that we have had? None in that which at preſent hangs over us as an Enſign of God's ſupernal Hoſt? I ac<g ref="char:EOLhyphen"/>knowledge there hath been, I fear, a weakneſs in one kind of Warning by the Publick Diſpenſa<g ref="char:EOLhyphen"/>tion of the Word. But God hath not left him<g ref="char:EOLhyphen"/>ſelf without witneſs: He hath multiplied War<g ref="char:EOLhyphen"/>nings, and they have not been complied withal. Have they, Brethren? <hi>Were they at all afraid,</hi> ſaith <hi>Jeremiah,</hi>
+                  <note place="margin">Jer. 36.24.</note> when the Roll was read? or, <hi>did they rent their cloaths?</hi> No, not at all. Have theſe Warnings of God been complied withal? Hath the Voice of God in them
+<pb n="18" facs="tcp:101248:14"/>been heard? Hath the Nation been afraid? Have they rent their cloaths and returned to the Lord? They have not. We yet continue, God help us, in a ſtate of ſin againſt Warnings.</p>
+               <p>And as for Mercies; The Mercies of Peace and Plenty, they have been the food of Luſt, of Co<g ref="char:EOLhyphen"/>vetouſneſs and Senſuality, and have pampered us in wantonneſs, to the rending and tearing one another.</p>
+               <p n="4">4. When in the ſecret workings of God's Pro<g ref="char:EOLhyphen"/>vidence there is an Inclination in a ſinful People unto a compliance with them from whom their Deſtruction is like to proceed; it is a ſign that God is withdrawn from them, and that the Land is ſo filled with ſin. When <hi>Iſrael</hi> was to be de<g ref="char:EOLhyphen"/>ſtroyed by the <hi>Aſſyrian,</hi> when <hi>Iſrael</hi> ſaw,
+<note place="margin">Hoſ. 5.13.</note> his ſickneſs, he ſent to the King of <hi>Aſſyria,</hi> applied himſelf to the King of <hi>Aſſyria,</hi> by whom he was to be deſtroyed. When <hi>Judah</hi> ſaw his ſickneſs, all his Inclinations and Applications were unto the <hi>Babylonians</hi> and <hi>Chal<g ref="char:EOLhyphen"/>deans,</hi> by whom he was to be deſtroy<g ref="char:EOLhyphen"/>ed.
+<note place="margin">Ezek. 23.</note> The Prophet <hi>Ezekiel</hi> hath a whole Chapter, to tell you of the fondneſs of that People upon the <hi>Babylonians</hi> before their De<g ref="char:EOLhyphen"/>ſtruction. They were all like Princes and Mighty men, and thou waſt in love with them, and committed Adultery with them; that is, par<g ref="char:EOLhyphen"/>took and complied with their Idolatry. When it is ſo, it is evident that God is greatly withdrawn
+<pb n="19" facs="tcp:101248:14"/>from ſuch a People, and that they are nigh unto their Deſolation.</p>
+               <p>What ſhall we plead for <hi>England</hi> in this mat<g ref="char:EOLhyphen"/>ter? Is it not known what wretched and vile compliances we have had with a Neighbour Na<g ref="char:EOLhyphen"/>tion, the <hi>French,</hi> following their Manners, imita<g ref="char:EOLhyphen"/>ting their Cuſtoms, promoting their Intereſt, ad<g ref="char:EOLhyphen"/>vancing their Reputation, when every man almoſt among us talked of nothing but that we ſhould be deſtroyed by the <hi>French:</hi> An eminent token of the hand of God upon us, and that the Land is ſo filled with ſin againſt the Holy One of <hi>Iſrael.</hi> Nay, go farther; Whence is it (for we bear our ſelves herein not only upon the Truth of the thing it ſelf, but alſo upon the Proclama<g ref="char:EOLhyphen"/>tion inviting us upon this day) whence is it that we fear the Judgments of God? Whence do we fear Deſolation, Confuſion, Deſtruction upon this Nation, to our Religion, to our Liberties, to our Lives? Is it not from the Papal Intereſt? There is it ſtated by our Rulers, and in the thoughts of all ſober perſons. And, had we been wiſe, we might have ſeen it many years ago. But what have we been doing for ſome Ages? deſerting our Principles, forſaking the Foundation we ſtood upon againſt the Papacy, foregoing thoſe avowed Principles of the firſt Reformers, pleading for com<g ref="char:EOLhyphen"/>pliance, pleading for a poſſibility of Reconcilia<g ref="char:EOLhyphen"/>tion, avowing them to be a true Church. And in one word, if the Power of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion had not been preſerved in the Body of the
+<pb n="20" facs="tcp:101248:15"/>People, it had by ſome been long ago given up to the Papal Intereſt, and this at a time working effectually among us when we were in dread, all that were wiſe and conſiderative, that there would from thence ariſe the Deſolation and Deſtruction of this Church.</p>
+               <p>I have given you theſe Evidences, that this Land of ours is ſo filled with ſin againſt the Ho<g ref="char:EOLhyphen"/>ly One of <hi>Iſrael.</hi> And if any can anſwer it, and diſprove it, no man ſhall more rejoyce in it than my ſelf.</p>
+               <p>I ſhould in the next place ſhew the danger that Land is in, when things lie in this equal Ballance. For I pray obſerve, I have not given theſe things to prove the Land hath filled up its meaſure of Iniquity, and muſt certainly be de<g ref="char:EOLhyphen"/>ſtroyed: I have not given them to prove abſo<g ref="char:EOLhyphen"/>lutely that there is a Decreed Judgment that can<g ref="char:EOLhyphen"/>not be diverted, that there is no Remedy, that notwithſtanding <hi>Reformation,</hi> God will ſay, <hi>I will not turn away the fierceneſs of mine Anger:</hi> But I have given them only to prove that we are in that ſtate and condition wherein there is no cer<g ref="char:EOLhyphen"/>tain Rule of the Word, no Indication of Provi<g ref="char:EOLhyphen"/>dence, no rational conſideration of the ſtate of things, that can give us any Security, of Prote<g ref="char:EOLhyphen"/>ction, or Deliverance; but that we are abſolute<g ref="char:EOLhyphen"/>ly reſolved upon Soveraign Grace and Mercy; and without Relief from thence, I ſhall only ſay as to the proof of the Propoſition, what the Pro<g ref="char:EOLhyphen"/>phet
+<pb n="21" facs="tcp:101248:15"/>ſaith, <hi>Iſa.</hi> 34.16. <hi>Seek ye out of the Book of the Lord and read, not one of theſe things ſhall fail.</hi>
+               </p>
+               <p>To omit all the conſiderations, and all the proof I intended, <hi>That Soveraign Grace and Mercy muſt be our Relief, if ever we be relieved;</hi> I pro<g ref="char:EOLhyphen"/>ceed unto the</p>
+            </div>
+            <div type="part">
+               <p>Second thing; which is, to give in Evidences, <hi>That</hi> England <hi>is not yet utterly forſaken of the Lord his God, the Lord of Hoſts, though the Land be thus filled with ſin.</hi> So that there is ground of En<g ref="char:EOLhyphen"/>couragement yet remaining to apply our ſelves to God. And in truth I will tell you the beſt I can think of.</p>
+               <p n="1">1. <hi>The large and wonderful Diſcovery of the horrible Plot, of the horrible Popiſh Plot, laid for the Ruine, Deſtruction and Deſolation of this Na<g ref="char:EOLhyphen"/>tion, is an Evidence that</hi> England <hi>is not yet, I ſay, utterly forſaken of the Lord its God.</hi> It was not diſcovered by our Rulers, from whom it was hid: It was not diſcovered by the ſevere Indaga<g ref="char:EOLhyphen"/>tion and Watchfulneſs of Miniſters of State from Forreign Intelligence, the uſual way of diſcover<g ref="char:EOLhyphen"/>ing ſuch Plots. It was not diſcovered by Perſons of Authority and Intereſt, to warrant the Diſco<g ref="char:EOLhyphen"/>very. It was not ſo in a time when the Nation was awake, and looked about them, and were jealous of ſuch things; but in the deepeſt Security. It hath admitted, it hath met with all the endeavours
+<pb n="22" facs="tcp:101248:16"/>of Hell and Men for the covering of it; yet through the Conduct of the holy Providence of God it hath broke forth to that Diſcovery, as that it is publickly proclaimed to all the Nation. I ſay with the Wife of <hi>Manoah, If God would have deſtroyed us, he would not have ſhewed us this thing.</hi> If he had utterly forſaken us, he would have left us to have been ſwallowed up, when we ſhould not have had leiſure to have cryed, <hi>Alas!</hi> To me I ſay it is an Evidence that <hi>England</hi> is not yet utterly forſaken.</p>
+               <p n="2">2. <hi>That God hath ſtirred up ſome, at leaſt, of the Nobles and our Rulers, to follow on this Diſco<g ref="char:EOLhyphen"/>very, to bring it forth to Light, and to purſue them to Condign Puniſhment, who were the Contrivers, Authors, Abetters, and Carriers on of that Bloody Deſign.</hi> I will not ſpeak one word or ſyllable to their diſhonour or diſreſpect, who deſerve both honour and reſpect from us: But this I will ſay, that if I know them, or any thing of them, this is not from themſelves; this is from the cloathing of the Spirit of God, and anointing to this very work, and is not from themſelves, nor their own Principles, nor their own Inclinations, but the hand of God in them and upon them. Add here unto the ſtrange and wonderful quiet diſpoſure of the Magiſtracy of this City into the hands of Per<g ref="char:EOLhyphen"/>ſons prudent, diligent and watchful, whom we have reaſon to pray for, and bleſs God for. And it is ſtrengthened by the ſtirring up of a Spirit in the common People unto an unheard of Heat
+<pb n="23" facs="tcp:101248:16"/>and earneſtneſs in bearing Witneſs and Teſtimo<g ref="char:EOLhyphen"/>ny againſt Popery and all their Abominations in ſuch a manner as hath not fallen out in any Na<g ref="char:EOLhyphen"/>tion under Heaven; and this acted above and beyond their Spirits and Principles. Theſe things to me are ſome Evidences that <hi>England</hi> is not yet utterly forſaken of the Lord its God, though the Land be full of ſin.</p>
+               <p n="3">3. I could inſtance in the Embroilments of For<g ref="char:EOLhyphen"/>raign Nations abroad. At this time they are all quiet, but who is there that doth not know that they all ſtand as it were upon the tip-toe, look<g ref="char:EOLhyphen"/>ing who ſhall firſt begin to cut Throats and kill men. Even all the Nations in <hi>Europe</hi> are in this poſture at this day. Though they are quiet this cold Weather, yet who ſhall begin firſt, who ſhall make the Attack, and who ſhall defend, is the talk of all <hi>Europe,</hi> whereby ſome of them may have been hindred from a publick contributing to the Ruine of this poor Nation.</p>
+               <p n="4">4. It is an Evidence that <hi>England</hi> is not yet forſaken, in that <hi>a ſecret efficacious Influence of Di<g ref="char:EOLhyphen"/>vine Providence hath preſerved the Body Politick of the Nation in its Being and Union, when all the Ligaments of Law and Mutual Truſt have been broken.</hi> There hath been ſuch a Diſſolution of Mutual Truſt, and all ordinary Ligaments of the Politick Union of a Nation; that if God had not powerfully graſped the whole in his hand, we had long ſince been in confuſion, and every man's
+<pb n="24" facs="tcp:101248:17"/>Sword had been in the ſide of his Brother and his Neighbour. But to this day we are preſerved in Peace by a ſecret Influential Power of Divine Wiſdom and Providence, whoſe Footſteps I would adore more and more; which is ſo much the more excellent, in that it is not viſible, and by outward force, but meerly upon the minds of men. It is to me another Evidence that <hi>England</hi> is not yet forſaken of its God, the Lord of Hoſts.</p>
+               <p n="5">5. My laſt is this; <hi>That after God hath by ſo many ways, and ſo many means declared unto us his Diſpleaſure againſt our ſin, having declared the Sentence in his Word, yet he hath viſibly granted an Arreſt of Judgment.</hi> The Sentence ſhall not be put in Execution (ſaith God) while I give this People a time and ſpace, and ſeaſon of Re<g ref="char:EOLhyphen"/>pentance and Reformation. Alas! If God had utterly forſaken us, he would have taken us off in the midſt of our Security; Evil would have riſen, and we ſhould not have known the morn<g ref="char:EOLhyphen"/>ing of it. Deſtruction would preſently have overtaken us. But now God hath given us va<g ref="char:EOLhyphen"/>rious Calls, various Warnings, and leaves us a ſpace as yet to ſee what we will do, and what will become of us. I will give them a Tryal, ſaith God; the Decree ſhall not yet go forth; Judg<g ref="char:EOLhyphen"/>ment ſhall not yet come forth to Execution: I will give them a ſpace for Repentance. And this conſideration hath a double corroboration of this bleſſed ſpace and ſeaſon God hath given us for
+<pb n="25" facs="tcp:101248:17"/>to apply our ſelves ſo far to his Call, as to re<g ref="char:EOLhyphen"/>move his Judgments that are impending over us.</p>
+               <p>The firſt is, <hi>That he hath reſerved a Remnant among us that do make uſe of this ſpace and ſea<g ref="char:EOLhyphen"/>ſon to apply themſelves unto the Throne of Grace, and to cry mightily for mercy.</hi> God hath not ta<g ref="char:EOLhyphen"/>ken his Holy Spirit from us. God hath not ſaid by any open Work, or ſecret Intimation of Pro<g ref="char:EOLhyphen"/>vidence, <hi>Pray no more for this People; my heart ſhall not be toward them:</hi> He hath not ſaid ſo: And therefore there are yet among us precious Souls, who do lift up prayers to God night and day, not only for themſelves and Families; not only for the Church of God, but for this poor Land of our Nativity, that if it were the will of God we may not ſee it ſoaked in Blood, that God would not come forth to deſtroy it with a Curſe; that God would pity, and ſpare, and have mercy upon it; that he would not make it an <hi>Aceldama,</hi> a Field of Blood. There are ma<g ref="char:EOLhyphen"/>ny Cryes to God to this purpoſe. So that there are ſome by whom this ſpace and ſeaſon God hath given us, is made uſe of.</p>
+               <p>Secondly; It hath ſtrength from this, <hi>That there is an Invitation and Encouragement given to the whole Nation to joyn together in their Cryes to God this day for the ſame end and purpoſe.</hi> I confeſs to you give me leave to ſpeak it) I am afraid the Body of the Nation, conſidering their Conduct
+<pb n="26" facs="tcp:101248:18"/>in this ſort of Duty, will make no great work of it, towards the averting of Judgments in ſuch a day as this is. And I am afraid alſo that the approaching Carnival or time of Feaſt<g ref="char:EOLhyphen"/>ing, will quickly blot out all Impreſſions that ought to be in the minds of men, from ſuch a day as this is. This is all I can ſay, God is publickly acknowledged, and what Influence that may have into a further ſuſpenſion of Judgment till the Nation be better prepared to ſeek unto him, I know not.</p>
+               <p>Methinks theſe are Evidences (to me they are) that <hi>England</hi> is not yet utterly forſaken of the Lord its God: <hi>The miraculous Diſcovery of the Plot for our Deſtruction: The purſuit of it by ſome of our Rulers and the Body of the Nation: The Embroilment of Forraign Nations in their own concerns: The prefervation of the Political Inte<g ref="char:EOLhyphen"/>reſt and Body, when all the Ligaments of Law, and Love, and Truſt, were diſſolved: The ſpace and ſeaſon that God gives us, that we are not im<g ref="char:EOLhyphen"/>mediately hurried into Blood and Confuſion, attend<g ref="char:EOLhyphen"/>ed with a Spirit of Prayer in ſome of God's own People: And with a publick Acknowledgment of God in this day in the Nation.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>I ſhould now proceed to my laſt thing, to ſhew you that in this State wherein a Land is ſo filled with ſin, as abſolutely to put the deter<g ref="char:EOLhyphen"/>mination of all things into the hand of Sove<g ref="char:EOLhyphen"/>raignty: And where yet there remains ſome
+<pb n="27" facs="tcp:101248:18"/>Evidences that God hath not utterly forſaken us: What is required of us: What is expect<g ref="char:EOLhyphen"/>ed from us, that may be a means to turn away the Wrath and Diſpleaſure of God from this poor Land and Nation. I ſhould have ſpoken to three things.</p>
+               <p n="1">1. That whatſoever be the Language of God's Calls, unleſs there be a general Compliance with them, this Land cannot be ſaved.</p>
+               <p n="2">2. I ſhould have ſhown you, That all the Di<g ref="char:EOLhyphen"/>ligence, and the Courage, and the Watchfulneſs of the Rulers, ſhall not be able to preſerve us from that Deſtruction which we have deſerved; unleſs ſomething elſe be done e're long, their hearts will faint, and their hands fail, and their thoughts be divided. For that alone will not do.</p>
+               <p n="3">3. Prayer will not do it in this caſe, though that be neceſſary and required; it will not do it.</p>
+               <p>God doth not cry to us meerly that we ſhould cry to him. <hi>Why cryeſt thou?</hi> ſaid God to <hi>Joſhua, there is an accurſed thing.</hi> Why doſt thou lie up<g ref="char:EOLhyphen"/>on thy face, and cry, and pray, when Judgment is coming upon you? There is an accurſed thing got among you. It is ſo with us.</p>
+               <p n="4">4. To ſpeak very plain in a plain caſe, The State of this Nation is ſuch, let our Expecta<g ref="char:EOLhyphen"/>tions and our Hopes be what they will, and Prog<g ref="char:EOLhyphen"/>noſticks
+<pb n="28" facs="tcp:101248:19"/>be multiplied; God can multiply upon another hand: The caſe of this Nation is ſuch, that without Repentance evidenced, and uni<g ref="char:EOLhyphen"/>verſal Reformation ſincerely endeavoured, <hi>Eng<g ref="char:EOLhyphen"/>land</hi> cannot be ſaved, will not be ſaved; God will forſake it; Deſtruction from the Lord will overtake us.</p>
+               <p>I ſhould have told you alſo what I judge in<g ref="char:EOLhyphen"/>diſpenſably neceſſary that any ſuch Reformation may be obtained in this Nation. As,</p>
+               <p>Firſt; <hi>That there be through the Providence of God provided another manner of Adminiſtration of the Word throughout the Nation than at preſent there is, which is the only means of Conviction and Converſion unto God.</hi> Signs, and Wonders, and Judgments, they terrifie; it is the Word that muſt reform and turn to God. And if the State of things continue ſo, that ſome who are able and wiſe for the work are forbid, and others that engroſs all to themſelves, are either unable or<g ref="char:EOLhyphen"/>negligent in it, I have no great hopes of ſeeing Reformation in this Land.</p>
+               <p>Secondly; <hi>Unleſs the generality of Magiſtrates be better principled for, and better inſtructed in their Of<g ref="char:EOLhyphen"/>fice than as yet they ſeem to be, a Reformation will not be carried through this Nation.</hi> And,</p>
+               <p>Thirdly; Which is the principal; <hi>That thoſe who have been examples in ſinning, and in drawing others to
+<pb n="29" facs="tcp:101248:19"/>ſin, become examples in Repenting, and Reforming, and Turning to God.</hi>
+               </p>
+               <p>Fourthly, and laſtly; <hi>That the whole Nation be ſtirred up, and do not faint in the purſuit of it.</hi>
+               </p>
+               <p>I have ſcarce been able to ſpeak the Heads of theſe things unto you. I wiſh I had ſtrength to ſpeak all that is in my thoughts and heart upon this matter, unto this whole Nation; for hereon, and not on any thing elſe depends the Delive<g ref="char:EOLhyphen"/>rance and Safety of it.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>A Catalogue of Books newly Printed, and Sold by <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three Crowns,</hi> at the lower end of <hi>Cheapſide.</hi>
+            </head>
+            <p>ATreatiſe of <hi>Knowledge and Love</hi> compared. In two Parts: 1. Of Falſly Pretended Knowledge. 2. Of True Saving Knowledge and Love. Firſt, Againſt Haſty Judging, and Falſe Conceits of Knowledge, and for neceſſary Suſpenſion. Secondly, The Excellency of Divine Love, and the Happineſs of being Known and Loved of God.</p>
+            <p>The Engliſh Nonconformity, as under King <hi>Charles II.</hi> and K. <hi>James II.</hi> truly Stated and Argued.</p>
+            <p>The Scripture Goſpel defended, and Chriſt, Grace and Free Juſtifi<g ref="char:EOLhyphen"/>cation vindicated againſt the Libertines, who uſe the Names of Chriſt, Free Grace and Juſtification, to ſubvert the Goſpel, and Chriſtianity, and that Chriſt, Grace and Juſtification, which they in zealous Igno<g ref="char:EOLhyphen"/>rance
+<pb facs="tcp:101248:20"/>think they plead for, to the injury of Chriſt, the danger of Souls and the ſcandalizing of the weak, the inſulting of Adverſaries, and the dividing of the Churches.</p>
+            <p>
+               <hi>Cain</hi> and <hi>Abel</hi> Malignity, that is Enmity to Serious Godlineſs, that is, To an Holy and Heavenly State of Heart and Life: Lamented, Deſcribed, Detected, and unanſwerably proved, to be the Deviliſh Nature, and the <hi>Militia</hi> of the Devil againſt God, and Chriſt, and the Church and King<g ref="char:EOLhyphen"/>doms, and the ſureſt ſign of a ſtate of Damnation. All four by <hi>Richard Baxter.</hi>
+            </p>
+            <p>Man's whole Duty, and God's wonderful Intreaty of him thereunto. Set forth from 2 <hi>Cor.</hi> 5.20. and publiſhed at the Requeſt of ſome Hearers.</p>
+            <p>Advice to Parents and Children, The ſum of a few Sermons, con<g ref="char:EOLhyphen"/>tracted, and publiſhed at the Requeſt of many Pious Hearers. Both by <hi>Daniel Burgeſs.</hi>
+            </p>
+            <p>A Funeral Sermon for Mrs. <hi>Eſther Sampſon,</hi> the late Wiſe of <hi>H<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Sampſon,</hi> Dr. of Phyſick, who Died <hi>Novemb.</hi> 24. 1689. By <hi>John Howe</hi> Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel.</p>
+            <p>Two Funeral Sermons of the Uſe and Happineſs of Humane Bodies Preached on 1 <hi>Cor.</hi> 6.13. By <hi>Edward Lawrence.</hi>
+            </p>
+            <p>Meetneſs for Heaven, promoted in ſome brief Meditations upon <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1.12. Diſcovering the Nature and Neceſſity of Habitual and Act<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Meetneſs for Heaven here, in all that hope for Heaven hereafter. De<g ref="char:EOLhyphen"/>ſigned for a Funeral Legacy. By <hi>O. H.</hi> an unworthy Miniſter of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Goſpel of Chriſt.</p>
+            <p>The Believers's Daily Exerciſe: Or, The Scripture Precept of being in the Fear of the Lord all the day long, Explained and urged, in fo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sermons. By <hi>John Billingſley,</hi> Miniſter of the Goſpel.</p>
+            <p>A Brief Enquiry into the True Nature of Schiſm: Or, A Perſwaſi<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> to Chriſtian Love and Charity.</p>
+            <p>A Seaſonable Queſtion, in a Sermon on <hi>Joſh.</hi> 5.13. — <hi>Art thou for <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or for our Adverſaries?</hi> Preacht on the 18th of <hi>June</hi> at <hi>Kingſnoth,</hi> bei<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Publick Faſt: And on the 27th of <hi>July</hi> at St. <hi>Peters Cornhill, Lond<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> By <hi>Timothy Wilſon,</hi> M.A. and Rector of <hi>Kingſnoth</hi> in <hi>Kent.</hi>
+            </p>
+            <p>A Call to Humiliation for the Grievous Sin of Perſecution, in <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sermons, Preached at the Publick Faſts in <hi>Lemſter,</hi> in the County of <hi>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>reford Wedneſday May</hi> 21. and <hi>June</hi> 18. 1690. By <hi>William Woodw<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> Miniſter of the Goſpel.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
